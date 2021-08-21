@@ -1,5 +1,8 @@
 ### Hi There :octocat:
 
+📫 How to reach me:
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/sureshkutti)
 <!--
 **2suresh/2suresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

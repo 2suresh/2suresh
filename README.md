@@ -2,6 +2,8 @@
 
 <!-- 📫 How to reach me:-->
 
+I am Interested in `System design`, `Frontend technologies` & `Project management`. 
+
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/sureshkutti)
 
 <!--START_SECTION:activity-->
